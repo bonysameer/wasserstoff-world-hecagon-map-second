@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wasserstoff-world-hecagon-map-second/static/css/main.9167d5ba.css",
+    "main.js": "/wasserstoff-world-hecagon-map-second/static/js/main.709db057.js",
+    "static/js/787.82591d01.chunk.js": "/wasserstoff-world-hecagon-map-second/static/js/787.82591d01.chunk.js",
+    "static/media/hex-map.svg": "/wasserstoff-world-hecagon-map-second/static/media/hex-map.64e7df3b351f261a278f4b6151f42374.svg",
+    "static/media/wstflogo-1.svg": "/wasserstoff-world-hecagon-map-second/static/media/wstflogo-1.412ca5cd7b99360a4be03d76eeffe272.svg",
+    "static/media/option.svg": "/wasserstoff-world-hecagon-map-second/static/media/option.ba0359226a7e0e9fbc56fcee470c1d98.svg",
+    "static/media/profile.svg": "/wasserstoff-world-hecagon-map-second/static/media/profile.71f90ae664dec8ae17f4a15798dfdca3.svg",
+    "index.html": "/wasserstoff-world-hecagon-map-second/index.html",
+    "static/media/indicator.svg": "/wasserstoff-world-hecagon-map-second/static/media/indicator.ec788c147944ffeb9b16cbe01e716621.svg",
+    "static/media/icon.svg": "/wasserstoff-world-hecagon-map-second/static/media/icon.8f6c12561e1e9d051ba1836687eca8a6.svg",
+    "static/media/arow.svg": "/wasserstoff-world-hecagon-map-second/static/media/arow.172bbb4e3a3d8bb123019d755d6ac31f.svg",
+    "static/media/shape.svg": "/wasserstoff-world-hecagon-map-second/static/media/shape.c1f013b227efa09105e77dfe16dfdcf1.svg",
+    "static/media/arrow.svg": "/wasserstoff-world-hecagon-map-second/static/media/arrow.909ec16cede7e4b7b30c661d5fa51327.svg",
+    "main.9167d5ba.css.map": "/wasserstoff-world-hecagon-map-second/static/css/main.9167d5ba.css.map",
+    "main.709db057.js.map": "/wasserstoff-world-hecagon-map-second/static/js/main.709db057.js.map",
+    "787.82591d01.chunk.js.map": "/wasserstoff-world-hecagon-map-second/static/js/787.82591d01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9167d5ba.css",
+    "static/js/main.709db057.js"
+  ]
+}
